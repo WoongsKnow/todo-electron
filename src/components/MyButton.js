@@ -2,6 +2,6 @@ import '../assets/css/public.css';
 
 function MyButton(props){
   return (
-    <button>Test</button>
+    <button>Test Button</button>
   )
 }
